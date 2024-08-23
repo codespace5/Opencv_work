@@ -1,0 +1,7 @@
+{
+"balls_coordinates": [
+[x1, y1],
+...
+],
+"cue_ball_index": I
+}
